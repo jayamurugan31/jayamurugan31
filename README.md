@@ -97,7 +97,8 @@ Dusi Polytechnic College (2019 – 2021)
 ---
 
 ## 🌐 Portfolio Website  
-🔗 https://glazethedesign.framer.website  
+https://www.thenamsoftwaresolutions.com
+
 
 ---
 
