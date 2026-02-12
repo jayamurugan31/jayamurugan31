@@ -113,7 +113,7 @@ https://www.thenamsoftwaresolutions.com
 ## 🤝 Let's Connect  
 
 - LinkedIn: (Add your LinkedIn URL)  
-- Portfolio: https://glazethedesign.framer.website  
+- Portfolio: jayamurugan.tech
 - Email: jayamuruganv28@gmail.com  
 
 ---
