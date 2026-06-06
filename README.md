@@ -148,8 +148,9 @@ class Jayamurugan:
 
 ## 🌐 3D Contribution Graph
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jayamurugan31/jayamurugan31/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/jayamurugan31/jayamurugan31/main/profile-night-rainbow.svg" />
 </p>
 
 ---
