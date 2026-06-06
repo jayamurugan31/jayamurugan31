@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Jayamurugan%20V&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+from+Chennai%2C+India;8x+Hackathon+Winner+%7C+Rs.58000%2B+Prizes;Research+Publication+at+ICEET+2025;Building+AI+%2B+IoT+%2B+Robotics+Solutions" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+from+Chennai%2C+India;8x+Hackathon+Winner+%7C+Rs.88000%2B+Prizes;Research+Publication+at+ICEET+2025;Building+AI+%2B+IoT+%2B+Robotics+Solutions" alt="typing" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ class Jayamurugan:
 
     achievements = {
         "hackathons_won": 8,
-        "total_prize": "Rs. 58,000+",
+        "total_prize": "Rs. 88,000+",
         "publications": 1
     }
 
@@ -115,13 +115,7 @@ class Jayamurugan:
 
 ---
 
-## 🎵 Now Playing on Spotify
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jayamuruganv28&count=3&unique=true" alt="Spotify Recently Played" width="420" />
-</p>
-
----
 
 ## 👀 Visitor Counter
 
@@ -236,7 +230,7 @@ class Jayamurugan:
 | 📄 | Research Publication — ICEET 2025 | TastyLens paper |
 | 🏭 | GIAN Course NIT Warangal | Sustainable Manufacturing |
 
-> 💰 **Total: Rs.58,000+ across 8 hackathons**
+> 💰 **Total: Rs.88,000+ across 8 hackathons**
 
 ---
 
